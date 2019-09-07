@@ -1,0 +1,40 @@
+﻿Code,ETF,ETF Name,ETF Alias
+EOD~BND.11,BND,Vanguard Total Bond Market ETF,Bonds Global
+EOD~DBC.11,DBC,Commodity Index Tracking Fund ETF,Commodities
+EOD~DIA.11,DIA,Dow Jones Industrial Average ETF,DOW
+EOD~EEM.11,EEM,Emerging Markets ETF,Emerg Markets
+EOD~EFA.11,EFA,EAFE ETF,EAFE
+EOD~EMB.11,EMB,J.P. Morgan USD Emerging Markets Bond ETF,Emerg Markets Bonds
+EOD~EPP.11,EPP,Pacific ex Japan ETF ,Pacifix ex Japan
+EOD~EWG.11,EWG,Germany ETF,Germany
+EOD~EWI.11,EWI,Italy ETF,Italy
+EOD~EWJ.11,EWJ,Japan ETF,Japan
+EOD~EWQ.11,EWQ,France ETF,France
+EOD~EWU.11,EWU,United Kingdom ETF,UK
+EOD~FXB.11,FXB,British Pound Sterling Trust ETF,GBP
+EOD~FXC.11,FXC,China Large Cap ETF,China Large Cap
+EOD~FXE.11,FXE,Invesco CurrencyShares Euro Trust ETF,Euro
+EOD~FXI.11,FXI,China Large-Cap ETF,China
+EOD~FXY.11,FXY,Invesco CurrencyShares Japanese Yen Trust ETF,Yen
+EOD~GDX.11,GDX,VanEck Vectors Gold Miners ETF ,Gold Miners
+EOD~GLD.11,GLD,Gold Trust ETF,Gold
+EOD~IEF.11,IEF,7-10 Year Treasury Bond ETF ,10yr treasuries
+EOD~IYR.11,IYR,US Real Estate ETF,US real estate
+EOD~JNK.11,JNK,Barclays Capital High Yield Bnd ETF,High yield Bond
+EOD~LQD.11,LQD,IBoxx $ Invest Grade Corp Bd Fd,Corp Bond
+EOD~SLV.11,SLV,Silver Trust ETF,Silver
+EOD~SPY.11,SPY,SNP 500 ETF,SNP 500
+EOD~TIP.11,TIP,Bond ETF,Bonds II
+EOD~TLT.11,TLT,20+ Year Treasury Bond ETF,20+ Treasuries
+EOD~USO.11,USO,United States Oil Fund ETF,Oil
+EOD~UUP.11,UUP,Invesco DB US Dollar Index Bullish Fund ,USD
+EOD~VGK.11,VGK,Vanguard FTSE Europe ETF,Europe
+EOD~VPL.11,VPL,Vanguard FTSE Pacific ETF,Pacific 
+EOD~VXX.11,VXX,VXX ETF (Short),VXX
+EOD~XLB.11,XLB,Materials Select Sector SPDR Fund ETF,Materials
+EOD~XLE.11,XLE,Energy Select Sector ETF,Energy
+EOD~XLF.11,XLF,Financial Select Sector SPDR Fund ETF,Finance
+EOD~XLK.11,XLK,Technology Select Sector SPDR Fund ETF,Tech
+EOD~XLU.11,XLU,Utilities Select Sector Fund ETF,Utilities
+EOD~CSJ.11,CSJ,Short-Term Corporate Bond ETF ,ST Corp Bond
+EOD~FXF.11,FXF,Swiss Franc Trust ETF,CHF
