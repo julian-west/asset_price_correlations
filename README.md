@@ -8,4 +8,4 @@ Raw data can be found in `asset_prices.csv` and contains the daily closing price
 
 Jupyter notebook with code is provided and the accompanying blog post can be found this [link](https://julian-west.github.io/blog/visualising-asset-price-correlations/).
 
-Useful template used to convert notebook to markdown is provided in the template.tpl file (source: https://predictablynoisy.com/jekyll-markdown-nbconvert)
+Useful template used to convert notebook to markdown is provided in the template.tpl file ([source](https://predictablynoisy.com/jekyll-markdown-nbconvert))
