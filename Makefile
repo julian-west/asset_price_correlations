@@ -15,8 +15,7 @@ clean:
 lint:
 	isort .
 	black .
-	mypy
 	flake8
-	nbqa black . --nbqa-mutate
-	nbqa isort . --nbqa-mutate
-	nbqa flake8 . --nbqa-mutate
+	nbqa black . --nbqa-exclude ^depreciated
+	# nbqa isort . --nbqa-mutate
+	# nbqa flake8 . --nbqa-mutate
