@@ -1,0 +1,1350 @@
+{
+  "data": [
+    {
+      "hoverinfo": "none",
+      "line": {
+        "color": "#DCDCDC",
+        "width": 1
+      },
+      "mode": "lines",
+      "showlegend": false,
+      "type": "scatter",
+      "x": [
+        -0.3873558496155651,
+        -0.30840665810758966,
+        null,
+        -0.3873558496155651,
+        -0.35455254408273257,
+        null,
+        -0.3873558496155651,
+        -0.433109983170746,
+        null,
+        -0.3873558496155651,
+        -0.2951759516209261,
+        null,
+        -0.3873558496155651,
+        -0.5098262069794887,
+        null,
+        -0.3873558496155651,
+        -0.4960912022401756,
+        null,
+        -0.061985741342250586,
+        -0.08080679936751226,
+        null,
+        -0.061985741342250586,
+        -0.164628669009437,
+        null,
+        -0.061985741342250586,
+        0.050935018384803514,
+        null,
+        0.19400324507071218,
+        -0.028055090941583954,
+        null,
+        0.19400324507071218,
+        0.3034767012960164,
+        null,
+        0.19400324507071218,
+        0.1774452293595213,
+        null,
+        0.19400324507071218,
+        0.32265918304568136,
+        null,
+        0.19400324507071218,
+        0.2010525009419428,
+        null,
+        0.19400324507071218,
+        0.32528944773657936,
+        null,
+        0.19400324507071218,
+        0.24872846537889123,
+        null,
+        0.19400324507071218,
+        0.1338666687987326,
+        null,
+        0.19400324507071218,
+        0.24837186023106694,
+        null,
+        0.19400324507071218,
+        0.3408028450110638,
+        null,
+        0.19400324507071218,
+        0.30617934043332296,
+        null,
+        0.19400324507071218,
+        0.07806818998363835,
+        null,
+        0.19400324507071218,
+        0.37702691939678645,
+        null,
+        0.19400324507071218,
+        0.10313530211014812,
+        null,
+        0.19400324507071218,
+        0.0818963514147412,
+        null,
+        0.19400324507071218,
+        0.0539578104835695,
+        null,
+        0.19400324507071218,
+        0.050935018384803514,
+        null,
+        0.19400324507071218,
+        0.3763111445978067,
+        null,
+        0.19400324507071218,
+        0.14513926822478931,
+        null,
+        -0.028055090941583954,
+        -0.18115500220471364,
+        null,
+        0.1338666687987326,
+        0.07020014768063837,
+        null,
+        0.07020014768063837,
+        0.19892185639939308,
+        null,
+        0.07020014768063837,
+        -0.11282985469071953,
+        null,
+        0.19892185639939308,
+        0.29993074924846375,
+        null,
+        -0.30840665810758966,
+        -0.45320486340744087,
+        null,
+        -0.30840665810758966,
+        -0.11282985469071953,
+        null,
+        -0.5703589208549207,
+        -0.45320486340744087,
+        null,
+        -0.5703589208549207,
+        -0.6409005829842456,
+        null,
+        0.3408028450110638,
+        0.4410456753917378,
+        null
+      ],
+      "y": [
+        0.8613489855672171,
+        0.6264653947754623,
+        null,
+        0.8613489855672171,
+        0.9964849028148899,
+        null,
+        0.8613489855672171,
+        1.0,
+        null,
+        0.8613489855672171,
+        0.9331468137332775,
+        null,
+        0.8613489855672171,
+        0.8739089924650413,
+        null,
+        0.8613489855672171,
+        0.9554292376783404,
+        null,
+        -0.725359107242301,
+        -0.8700617600581817,
+        null,
+        -0.725359107242301,
+        -0.8258668618791852,
+        null,
+        -0.725359107242301,
+        -0.52461322167222,
+        null,
+        -0.28557552777944334,
+        -0.25424071811604154,
+        null,
+        -0.28557552777944334,
+        -0.22157868790897345,
+        null,
+        -0.28557552777944334,
+        -0.15023379449945082,
+        null,
+        -0.28557552777944334,
+        -0.15832286235295426,
+        null,
+        -0.28557552777944334,
+        -0.4568730733762857,
+        null,
+        -0.28557552777944334,
+        -0.38682536714232246,
+        null,
+        -0.28557552777944334,
+        -0.40570606048442737,
+        null,
+        -0.28557552777944334,
+        0.027068668685057976,
+        null,
+        -0.28557552777944334,
+        -0.13990273963252717,
+        null,
+        -0.28557552777944334,
+        -0.47465941472178697,
+        null,
+        -0.28557552777944334,
+        -0.31048281899414254,
+        null,
+        -0.28557552777944334,
+        -0.3875425825525928,
+        null,
+        -0.28557552777944334,
+        -0.32192781768386813,
+        null,
+        -0.28557552777944334,
+        -0.17072788779926648,
+        null,
+        -0.28557552777944334,
+        -0.24479443050541883,
+        null,
+        -0.28557552777944334,
+        -0.32067582271445644,
+        null,
+        -0.28557552777944334,
+        -0.52461322167222,
+        null,
+        -0.28557552777944334,
+        -0.24283987380440206,
+        null,
+        -0.28557552777944334,
+        -0.41042853978358057,
+        null,
+        -0.25424071811604154,
+        -0.24302820997674882,
+        null,
+        0.027068668685057976,
+        0.3060079954279546,
+        null,
+        0.3060079954279546,
+        0.44547816330901313,
+        null,
+        0.3060079954279546,
+        0.4773723190389484,
+        null,
+        0.44547816330901313,
+        0.5466043178383141,
+        null,
+        0.6264653947754623,
+        0.49754519457889085,
+        null,
+        0.6264653947754623,
+        0.4773723190389484,
+        null,
+        0.36065240477133226,
+        0.49754519457889085,
+        null,
+        0.36065240477133226,
+        0.22384006610699497,
+        null,
+        -0.47465941472178697,
+        -0.5990862761101583,
+        null
+      ]
+    },
+    {
+      "hoverinfo": "text",
+      "hovertext": [
+        "<b>Bonds Global</b><br>Annualized Returns: 2.8%<br>Annualized Volatility: 3.2%<br><br>Strongest correlations with: <br>10yr treasuries: 0.94<br>20+ Treasuries: 0.90<br>Corp Bond: 0.89<br><br>Weakest correlations with: <br>GBP: 0.03<br>High yield Bond: -0.06<br>Emerg Markets: -0.07<br>",
+        "<b>Commodities</b><br>Annualized Returns: -10.9%<br>Annualized Volatility: 15.1%<br><br>Strongest correlations with: <br>Oil: 0.88<br>Energy: 0.68<br>China Large Cap: 0.53<br><br>Weakest correlations with: <br>ST Corp Bond: 0.03<br>Yen: -0.03<br>CHF: 0.04<br>",
+        "<b>DOW</b><br>Annualized Returns: 12.6%<br>Annualized Volatility: 11.8%<br><br>Strongest correlations with: <br>SNP 500: 0.97<br>Finance: 0.87<br>Tech: 0.85<br><br>Weakest correlations with: <br>Silver: 0.03<br>Gold Miners: 0.04<br>ST Corp Bond: -0.04<br>",
+        "<b>Emerg Markets</b><br>Annualized Returns: 4.3%<br>Annualized Volatility: 18.5%<br><br>Strongest correlations with: <br>China: 0.84<br>Pacifix ex Japan: 0.82<br>Pacific : 0.81<br><br>Weakest correlations with: <br>Bonds II: -0.00<br>Gold: -0.01<br>CHF: -0.02<br>",
+        "<b>EAFE</b><br>Annualized Returns: 4.4%<br>Annualized Volatility: 14.7%<br><br>Strongest correlations with: <br>Europe: 0.95<br>France: 0.91<br>UK: 0.91<br><br>Weakest correlations with: <br>CHF: 0.02<br>ST Corp Bond: 0.05<br>Corp Bond: -0.06<br>",
+        "<b>Emerg Markets Bonds</b><br>Annualized Returns: 5.6%<br>Annualized Volatility: 6.4%<br><br>Strongest correlations with: <br>Emerg Markets: 0.58<br>High yield Bond: 0.58<br>Pacifix ex Japan: 0.48<br><br>Weakest correlations with: <br>Yen: 0.07<br>CHF: 0.07<br>Euro: 0.12<br>",
+        "<b>Pacifix ex Japan</b><br>Annualized Returns: 3.1%<br>Annualized Volatility: 16.2%<br><br>Strongest correlations with: <br>Pacific : 0.84<br>Emerg Markets: 0.82<br>EAFE: 0.79<br><br>Weakest correlations with: <br>Corp Bond: -0.01<br>Gold: -0.01<br>CHF: -0.01<br>",
+        "<b>Germany</b><br>Annualized Returns: 5.8%<br>Annualized Volatility: 17.9%<br><br>Strongest correlations with: <br>Europe: 0.93<br>France: 0.93<br>EAFE: 0.88<br><br>Weakest correlations with: <br>CHF: 0.02<br>ST Corp Bond: 0.02<br>Gold Miners: 0.06<br>",
+        "<b>Italy</b><br>Annualized Returns: 2.6%<br>Annualized Volatility: 23.8%<br><br>Strongest correlations with: <br>Europe: 0.88<br>France: 0.88<br>Germany: 0.84<br><br>Weakest correlations with: <br>ST Corp Bond: -0.01<br>CHF: 0.01<br>Gold Miners: 0.07<br>",
+        "<b>Japan</b><br>Annualized Returns: 7.5%<br>Annualized Volatility: 15.7%<br><br>Strongest correlations with: <br>Pacific : 0.93<br>EAFE: 0.79<br>SNP 500: 0.71<br><br>Weakest correlations with: <br>Gold Miners: 0.03<br>ST Corp Bond: 0.04<br>Silver: 0.05<br>",
+        "<b>France</b><br>Annualized Returns: 5.4%<br>Annualized Volatility: 17.8%<br><br>Strongest correlations with: <br>Europe: 0.96<br>Germany: 0.93<br>EAFE: 0.91<br><br>Weakest correlations with: <br>CHF: 0.05<br>ST Corp Bond: 0.05<br>Corp Bond: -0.07<br>",
+        "<b>UK</b><br>Annualized Returns: 0.6%<br>Annualized Volatility: 16.9%<br><br>Strongest correlations with: <br>Europe: 0.94<br>EAFE: 0.91<br>France: 0.85<br><br>Weakest correlations with: <br>CHF: 0.03<br>ST Corp Bond: 0.03<br>Corp Bond: -0.07<br>",
+        "<b>GBP</b><br>Annualized Returns: -5.2%<br>Annualized Volatility: 9.6%<br><br>Strongest correlations with: <br>USD: -0.61<br>UK: 0.55<br>Euro: 0.51<br><br>Weakest correlations with: <br>10yr treasuries: -0.01<br>Bonds Global: 0.03<br>Corp Bond: 0.06<br>",
+        "<b>China Large Cap</b><br>Annualized Returns: -5.1%<br>Annualized Volatility: 8.0%<br><br>Strongest correlations with: <br>Commodities: 0.53<br>Oil: 0.51<br>USD: -0.47<br><br>Weakest correlations with: <br>10yr treasuries: 0.01<br>20+ Treasuries: -0.08<br>Bonds Global: 0.08<br>",
+        "<b>Euro</b><br>Annualized Returns: -4.4%<br>Annualized Volatility: 8.8%<br><br>Strongest correlations with: <br>USD: -0.96<br>CHF: 0.53<br>GBP: 0.51<br><br>Weakest correlations with: <br>US real estate: -0.01<br>Energy: -0.01<br>Materials: -0.02<br>",
+        "<b>China</b><br>Annualized Returns: 7.5%<br>Annualized Volatility: 22.9%<br><br>Strongest correlations with: <br>Emerg Markets: 0.84<br>Pacifix ex Japan: 0.73<br>Pacific : 0.72<br><br>Weakest correlations with: <br>Corp Bond: -0.06<br>ST Corp Bond: 0.06<br>USD: 0.07<br>",
+        "<b>Yen</b><br>Annualized Returns: -4.0%<br>Annualized Volatility: 9.6%<br><br>Strongest correlations with: <br>10yr treasuries: 0.56<br>USD: -0.54<br>Finance: -0.54<br><br>Weakest correlations with: <br>Commodities: -0.03<br>Utilities: 0.04<br>Emerg Markets Bonds: 0.07<br>",
+        "<b>Gold Miners</b><br>Annualized Returns: -0.6%<br>Annualized Volatility: 41.6%<br><br>Strongest correlations with: <br>Gold: 0.79<br>Silver: 0.70<br>China Large Cap: 0.36<br><br>Weakest correlations with: <br>VXX: -0.03<br>Japan: 0.03<br>DOW: 0.04<br>",
+        "<b>Gold</b><br>Annualized Returns: -1.1%<br>Annualized Volatility: 14.2%<br><br>Strongest correlations with: <br>Gold Miners: 0.79<br>Silver: 0.79<br>Yen: 0.52<br><br>Weakest correlations with: <br>Pacifix ex Japan: -0.01<br>Emerg Markets: -0.01<br>Energy: -0.02<br>",
+        "<b>10yr treasuries</b><br>Annualized Returns: 2.9%<br>Annualized Volatility: 5.4%<br><br>Strongest correlations with: <br>Bonds Global: 0.94<br>20+ Treasuries: 0.93<br>Corp Bond: 0.86<br><br>Weakest correlations with: <br>China Large Cap: 0.01<br>GBP: -0.01<br>US real estate: 0.09<br>",
+        "<b>US real estate</b><br>Annualized Returns: 9.3%<br>Annualized Volatility: 13.4%<br><br>Strongest correlations with: <br>SNP 500: 0.63<br>Utilities: 0.62<br>DOW: 0.59<br><br>Weakest correlations with: <br>Euro: -0.01<br>USD: -0.02<br>CHF: -0.04<br>",
+        "<b>High yield Bond</b><br>Annualized Returns: 3.5%<br>Annualized Volatility: 6.2%<br><br>Strongest correlations with: <br>SNP 500: 0.67<br>Materials: 0.66<br>Emerg Markets: 0.64<br><br>Weakest correlations with: <br>Bonds II: 0.01<br>USD: -0.01<br>Euro: -0.02<br>",
+        "<b>Corp Bond</b><br>Annualized Returns: 4.7%<br>Annualized Volatility: 5.0%<br><br>Strongest correlations with: <br>Bonds Global: 0.89<br>10yr treasuries: 0.86<br>20+ Treasuries: 0.85<br><br>Weakest correlations with: <br>Pacifix ex Japan: -0.01<br>Emerg Markets: 0.02<br>Pacific : -0.03<br>",
+        "<b>Silver</b><br>Annualized Returns: -6.8%<br>Annualized Volatility: 22.2%<br><br>Strongest correlations with: <br>Gold: 0.79<br>Gold Miners: 0.70<br>Commodities: 0.35<br><br>Weakest correlations with: <br>VXX: -0.02<br>DOW: 0.03<br>Tech: 0.03<br>",
+        "<b>SNP 500</b><br>Annualized Returns: 11.6%<br>Annualized Volatility: 12.1%<br><br>Strongest correlations with: <br>DOW: 0.97<br>Tech: 0.90<br>Finance: 0.87<br><br>Weakest correlations with: <br>ST Corp Bond: -0.02<br>Silver: 0.05<br>Gold Miners: 0.08<br>",
+        "<b>Bonds II</b><br>Annualized Returns: 1.7%<br>Annualized Volatility: 4.7%<br><br>Strongest correlations with: <br>10yr treasuries: 0.84<br>Bonds Global: 0.83<br>20+ Treasuries: 0.79<br><br>Weakest correlations with: <br>Emerg Markets: -0.00<br>Pacifix ex Japan: -0.01<br>High yield Bond: 0.01<br>",
+        "<b>20+ Treasuries</b><br>Annualized Returns: 7.0%<br>Annualized Volatility: 12.5%<br><br>Strongest correlations with: <br>10yr treasuries: 0.93<br>Bonds Global: 0.90<br>Corp Bond: 0.85<br><br>Weakest correlations with: <br>US real estate: 0.07<br>GBP: -0.07<br>China Large Cap: -0.08<br>",
+        "<b>Oil</b><br>Annualized Returns: -27.3%<br>Annualized Volatility: 34.1%<br><br>Strongest correlations with: <br>Commodities: 0.88<br>Energy: 0.71<br>China Large Cap: 0.51<br><br>Weakest correlations with: <br>CHF: 0.00<br>ST Corp Bond: 0.01<br>Bonds II: 0.03<br>",
+        "<b>USD</b><br>Annualized Returns: 3.1%<br>Annualized Volatility: 7.4%<br><br>Strongest correlations with: <br>Euro: -0.96<br>GBP: -0.61<br>CHF: -0.58<br><br>Weakest correlations with: <br>Materials: -0.00<br>Pacific : -0.00<br>High yield Bond: -0.01<br>",
+        "<b>Europe</b><br>Annualized Returns: 4.1%<br>Annualized Volatility: 16.2%<br><br>Strongest correlations with: <br>France: 0.96<br>EAFE: 0.95<br>UK: 0.94<br><br>Weakest correlations with: <br>ST Corp Bond: 0.05<br>CHF: 0.07<br>Corp Bond: -0.07<br>",
+        "<b>Pacific </b><br>Annualized Returns: 6.8%<br>Annualized Volatility: 14.1%<br><br>Strongest correlations with: <br>Japan: 0.93<br>EAFE: 0.87<br>Pacifix ex Japan: 0.84<br><br>Weakest correlations with: <br>USD: -0.00<br>Euro: -0.02<br>Corp Bond: -0.03<br>",
+        "<b>VXX</b><br>Annualized Returns: -79.6%<br>Annualized Volatility: 60.3%<br><br>Strongest correlations with: <br>SNP 500: -0.84<br>DOW: -0.80<br>Tech: -0.75<br><br>Weakest correlations with: <br>Silver: -0.02<br>Gold Miners: -0.03<br>ST Corp Bond: 0.05<br>",
+        "<b>Materials</b><br>Annualized Returns: 9.4%<br>Annualized Volatility: 15.6%<br><br>Strongest correlations with: <br>SNP 500: 0.83<br>DOW: 0.82<br>Finance: 0.74<br><br>Weakest correlations with: <br>ST Corp Bond: 0.00<br>USD: -0.00<br>Euro: -0.02<br>",
+        "<b>Energy</b><br>Annualized Returns: -2.6%<br>Annualized Volatility: 20.8%<br><br>Strongest correlations with: <br>Materials: 0.73<br>Oil: 0.71<br>SNP 500: 0.69<br><br>Weakest correlations with: <br>ST Corp Bond: -0.00<br>Euro: -0.01<br>Gold: -0.02<br>",
+        "<b>Finance</b><br>Annualized Returns: 13.0%<br>Annualized Volatility: 15.7%<br><br>Strongest correlations with: <br>DOW: 0.87<br>SNP 500: 0.87<br>Materials: 0.74<br><br>Weakest correlations with: <br>Silver: -0.05<br>Gold Miners: -0.07<br>GBP: 0.12<br>",
+        "<b>Tech</b><br>Annualized Returns: 17.8%<br>Annualized Volatility: 14.3%<br><br>Strongest correlations with: <br>SNP 500: 0.90<br>DOW: 0.85<br>VXX: -0.75<br><br>Weakest correlations with: <br>ST Corp Bond: 0.01<br>Silver: 0.03<br>Gold Miners: 0.06<br>",
+        "<b>Utilities</b><br>Annualized Returns: 12.3%<br>Annualized Volatility: 14.3%<br><br>Strongest correlations with: <br>US real estate: 0.62<br>SNP 500: 0.42<br>DOW: 0.40<br><br>Weakest correlations with: <br>Yen: 0.04<br>Oil: 0.07<br>CHF: 0.07<br>",
+        "<b>ST Corp Bond</b><br>Annualized Returns: 1.2%<br>Annualized Volatility: 0.9%<br><br>Strongest correlations with: <br>Bonds Global: 0.60<br>Corp Bond: 0.58<br>10yr treasuries: 0.58<br><br>Weakest correlations with: <br>Materials: 0.00<br>Energy: -0.00<br>Tech: 0.01<br>",
+        "<b>CHF</b><br>Annualized Returns: -3.2%<br>Annualized Volatility: 11.8%<br><br>Strongest correlations with: <br>USD: -0.58<br>Euro: 0.53<br>Yen: 0.39<br><br>Weakest correlations with: <br>Oil: 0.00<br>Pacifix ex Japan: -0.01<br>Italy: 0.01<br>"
+      ],
+      "marker": {
+        "color": [
+          "#9eccb7",
+          "#ffa09b",
+          "#9eccb7",
+          "#9eccb7",
+          "#9eccb7",
+          "#9eccb7",
+          "#9eccb7",
+          "#9eccb7",
+          "#9eccb7",
+          "#9eccb7",
+          "#9eccb7",
+          "#9eccb7",
+          "#ffa09b",
+          "#ffa09b",
+          "#ffa09b",
+          "#9eccb7",
+          "#ffa09b",
+          "#ffa09b",
+          "#ffa09b",
+          "#9eccb7",
+          "#9eccb7",
+          "#9eccb7",
+          "#9eccb7",
+          "#ffa09b",
+          "#9eccb7",
+          "#9eccb7",
+          "#9eccb7",
+          "#ffa09b",
+          "#9eccb7",
+          "#9eccb7",
+          "#9eccb7",
+          "#ffa09b",
+          "#9eccb7",
+          "#ffa09b",
+          "#9eccb7",
+          "#9eccb7",
+          "#9eccb7",
+          "#9eccb7",
+          "#ffa09b"
+        ],
+        "line": {
+          "width": 1
+        },
+        "size": [
+          8.409962668180937,
+          16.524876267989818,
+          17.7498353842169,
+          10.403416190734509,
+          10.53709598744569,
+          11.788905944056836,
+          8.74128497140116,
+          12.018545507968037,
+          8.086765277867391,
+          13.672562505704223,
+          11.597668231034088,
+          4.000588539017547,
+          11.373755562808794,
+          11.277544145227461,
+          10.478913401298094,
+          13.724484396832173,
+          9.974741121453453,
+          3.78139955026892,
+          5.16239106325131,
+          8.552093624728395,
+          15.226449669612531,
+          9.333975515026662,
+          10.816214686027195,
+          13.012444619200147,
+          17.038389976013647,
+          6.562382254765895,
+          13.190086272365527,
+          26.116645047013265,
+          8.841394865569645,
+          10.163491593442695,
+          12.997150911568347,
+          44.62053536030952,
+          15.307855776949758,
+          8.019867967649972,
+          17.99398503323159,
+          21.086276557424682,
+          17.527129395409723,
+          5.401409819263998,
+          8.931243120025815
+        ]
+      },
+      "mode": "markers+text",
+      "showlegend": false,
+      "text": [
+        "Bonds Global",
+        "Commodities",
+        "DOW",
+        "Emerg Markets",
+        "EAFE",
+        "Emerg Markets Bonds",
+        "Pacifix ex Japan",
+        "Germany",
+        "Italy",
+        "Japan",
+        "France",
+        "UK",
+        "GBP",
+        "China Large Cap",
+        "Euro",
+        "China",
+        "Yen",
+        "Gold Miners",
+        "Gold",
+        "10yr treasuries",
+        "US real estate",
+        "High yield Bond",
+        "Corp Bond",
+        "Silver",
+        "SNP 500",
+        "Bonds II",
+        "20+ Treasuries",
+        "Oil",
+        "USD",
+        "Europe",
+        "Pacific ",
+        "VXX",
+        "Materials",
+        "Energy",
+        "Finance",
+        "Tech",
+        "Utilities",
+        "ST Corp Bond",
+        "CHF"
+      ],
+      "textfont": {
+        "size": 7
+      },
+      "textposition": "top center",
+      "type": "scatter",
+      "x": [
+        -0.3873558496155651,
+        -0.061985741342250586,
+        0.19400324507071218,
+        -0.028055090941583954,
+        0.3034767012960164,
+        -0.18115500220471364,
+        0.1774452293595213,
+        0.32265918304568136,
+        0.2010525009419428,
+        0.32528944773657936,
+        0.24872846537889123,
+        0.1338666687987326,
+        0.07020014768063837,
+        -0.08080679936751226,
+        0.19892185639939308,
+        0.24837186023106694,
+        -0.30840665810758966,
+        -0.5703589208549207,
+        -0.45320486340744087,
+        -0.35455254408273257,
+        0.3408028450110638,
+        0.30617934043332296,
+        -0.433109983170746,
+        -0.6409005829842456,
+        0.07806818998363835,
+        -0.2951759516209261,
+        -0.5098262069794887,
+        -0.164628669009437,
+        -0.11282985469071953,
+        0.37702691939678645,
+        0.10313530211014812,
+        0.0818963514147412,
+        0.0539578104835695,
+        0.050935018384803514,
+        0.3763111445978067,
+        0.14513926822478931,
+        0.4410456753917378,
+        -0.4960912022401756,
+        0.29993074924846375
+      ],
+      "y": [
+        0.8613489855672171,
+        -0.725359107242301,
+        -0.28557552777944334,
+        -0.25424071811604154,
+        -0.22157868790897345,
+        -0.24302820997674882,
+        -0.15023379449945082,
+        -0.15832286235295426,
+        -0.4568730733762857,
+        -0.38682536714232246,
+        -0.40570606048442737,
+        0.027068668685057976,
+        0.3060079954279546,
+        -0.8700617600581817,
+        0.44547816330901313,
+        -0.13990273963252717,
+        0.6264653947754623,
+        0.36065240477133226,
+        0.49754519457889085,
+        0.9964849028148899,
+        -0.47465941472178697,
+        -0.31048281899414254,
+        1.0,
+        0.22384006610699497,
+        -0.3875425825525928,
+        0.9331468137332775,
+        0.8739089924650413,
+        -0.8258668618791852,
+        0.4773723190389484,
+        -0.32192781768386813,
+        -0.17072788779926648,
+        -0.24479443050541883,
+        -0.32067582271445644,
+        -0.52461322167222,
+        -0.24283987380440206,
+        -0.41042853978358057,
+        -0.5990862761101583,
+        0.9554292376783404,
+        0.5466043178383141
+      ]
+    }
+  ],
+  "layout": {
+    "autosize": false,
+    "height": 800,
+    "hovermode": "closest",
+    "plot_bgcolor": "#fff",
+    "showlegend": false,
+    "template": {
+      "data": {
+        "bar": [
+          {
+            "error_x": {
+              "color": "#2a3f5f"
+            },
+            "error_y": {
+              "color": "#2a3f5f"
+            },
+            "marker": {
+              "line": {
+                "color": "#E5ECF6",
+                "width": 0.5
+              }
+            },
+            "type": "bar"
+          }
+        ],
+        "barpolar": [
+          {
+            "marker": {
+              "line": {
+                "color": "#E5ECF6",
+                "width": 0.5
+              }
+            },
+            "type": "barpolar"
+          }
+        ],
+        "carpet": [
+          {
+            "aaxis": {
+              "endlinecolor": "#2a3f5f",
+              "gridcolor": "white",
+              "linecolor": "white",
+              "minorgridcolor": "white",
+              "startlinecolor": "#2a3f5f"
+            },
+            "baxis": {
+              "endlinecolor": "#2a3f5f",
+              "gridcolor": "white",
+              "linecolor": "white",
+              "minorgridcolor": "white",
+              "startlinecolor": "#2a3f5f"
+            },
+            "type": "carpet"
+          }
+        ],
+        "choropleth": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "type": "choropleth"
+          }
+        ],
+        "contour": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "contour"
+          }
+        ],
+        "contourcarpet": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "type": "contourcarpet"
+          }
+        ],
+        "heatmap": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "heatmap"
+          }
+        ],
+        "heatmapgl": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "heatmapgl"
+          }
+        ],
+        "histogram": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "histogram"
+          }
+        ],
+        "histogram2d": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "histogram2d"
+          }
+        ],
+        "histogram2dcontour": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "histogram2dcontour"
+          }
+        ],
+        "mesh3d": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "type": "mesh3d"
+          }
+        ],
+        "parcoords": [
+          {
+            "line": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "parcoords"
+          }
+        ],
+        "pie": [
+          {
+            "automargin": true,
+            "type": "pie"
+          }
+        ],
+        "scatter": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatter"
+          }
+        ],
+        "scatter3d": [
+          {
+            "line": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatter3d"
+          }
+        ],
+        "scattercarpet": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattercarpet"
+          }
+        ],
+        "scattergeo": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattergeo"
+          }
+        ],
+        "scattergl": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattergl"
+          }
+        ],
+        "scattermapbox": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattermapbox"
+          }
+        ],
+        "scatterpolar": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatterpolar"
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatterpolargl"
+          }
+        ],
+        "scatterternary": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatterternary"
+          }
+        ],
+        "surface": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "surface"
+          }
+        ],
+        "table": [
+          {
+            "cells": {
+              "fill": {
+                "color": "#EBF0F8"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "header": {
+              "fill": {
+                "color": "#C8D4E3"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "type": "table"
+          }
+        ]
+      },
+      "layout": {
+        "annotationdefaults": {
+          "arrowcolor": "#2a3f5f",
+          "arrowhead": 0,
+          "arrowwidth": 1
+        },
+        "autotypenumbers": "strict",
+        "coloraxis": {
+          "colorbar": {
+            "outlinewidth": 0,
+            "ticks": ""
+          }
+        },
+        "colorscale": {
+          "diverging": [
+            [
+              0,
+              "#8e0152"
+            ],
+            [
+              0.1,
+              "#c51b7d"
+            ],
+            [
+              0.2,
+              "#de77ae"
+            ],
+            [
+              0.3,
+              "#f1b6da"
+            ],
+            [
+              0.4,
+              "#fde0ef"
+            ],
+            [
+              0.5,
+              "#f7f7f7"
+            ],
+            [
+              0.6,
+              "#e6f5d0"
+            ],
+            [
+              0.7,
+              "#b8e186"
+            ],
+            [
+              0.8,
+              "#7fbc41"
+            ],
+            [
+              0.9,
+              "#4d9221"
+            ],
+            [
+              1,
+              "#276419"
+            ]
+          ],
+          "sequential": [
+            [
+              0.0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1.0,
+              "#f0f921"
+            ]
+          ],
+          "sequentialminus": [
+            [
+              0.0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1.0,
+              "#f0f921"
+            ]
+          ]
+        },
+        "colorway": [
+          "#636efa",
+          "#EF553B",
+          "#00cc96",
+          "#ab63fa",
+          "#FFA15A",
+          "#19d3f3",
+          "#FF6692",
+          "#B6E880",
+          "#FF97FF",
+          "#FECB52"
+        ],
+        "font": {
+          "color": "#2a3f5f"
+        },
+        "geo": {
+          "bgcolor": "white",
+          "lakecolor": "white",
+          "landcolor": "#E5ECF6",
+          "showlakes": true,
+          "showland": true,
+          "subunitcolor": "white"
+        },
+        "hoverlabel": {
+          "align": "left"
+        },
+        "hovermode": "closest",
+        "mapbox": {
+          "style": "light"
+        },
+        "paper_bgcolor": "white",
+        "plot_bgcolor": "#E5ECF6",
+        "polar": {
+          "angularaxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          },
+          "bgcolor": "#E5ECF6",
+          "radialaxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          }
+        },
+        "scene": {
+          "xaxis": {
+            "backgroundcolor": "#E5ECF6",
+            "gridcolor": "white",
+            "gridwidth": 2,
+            "linecolor": "white",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "white"
+          },
+          "yaxis": {
+            "backgroundcolor": "#E5ECF6",
+            "gridcolor": "white",
+            "gridwidth": 2,
+            "linecolor": "white",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "white"
+          },
+          "zaxis": {
+            "backgroundcolor": "#E5ECF6",
+            "gridcolor": "white",
+            "gridwidth": 2,
+            "linecolor": "white",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "white"
+          }
+        },
+        "shapedefaults": {
+          "line": {
+            "color": "#2a3f5f"
+          }
+        },
+        "ternary": {
+          "aaxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          },
+          "baxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          },
+          "bgcolor": "#E5ECF6",
+          "caxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          }
+        },
+        "title": {
+          "x": 0.05
+        },
+        "xaxis": {
+          "automargin": true,
+          "gridcolor": "white",
+          "linecolor": "white",
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "zerolinecolor": "white",
+          "zerolinewidth": 2
+        },
+        "yaxis": {
+          "automargin": true,
+          "gridcolor": "white",
+          "linecolor": "white",
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "zerolinecolor": "white",
+          "zerolinewidth": 2
+        }
+      }
+    },
+    "title": {
+      "text": "Plotly - interactive minimum spanning tree"
+    },
+    "width": 800,
+    "xaxis": {
+      "showgrid": false,
+      "showline": false,
+      "showticklabels": false,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 20
+        },
+        "text": ""
+      },
+      "zeroline": false
+    },
+    "yaxis": {
+      "showgrid": false,
+      "showline": false,
+      "showticklabels": false,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 20
+        },
+        "text": ""
+      },
+      "zeroline": false
+    }
+  }
+}
