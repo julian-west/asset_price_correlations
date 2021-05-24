@@ -16,6 +16,6 @@ lint:
 	isort .
 	black .
 	flake8
-	nbqa black . --nbqa-exclude ^depreciated
-	# nbqa isort . --nbqa-mutate
-	# nbqa flake8 . --nbqa-mutate
+	nbqa black . --nbqa-mutate --nbqa-exclude ^depreciated
+	nbqa isort . --nbqa-mutate --nbqa-exclude ^depreciated
+	nbqa flake8 . --nbqa-mutate --nbqa-exclude ^depreciated
