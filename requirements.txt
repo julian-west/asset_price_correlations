@@ -1,0 +1,12 @@
+black
+flake8
+jupyter
+matplotlib
+mypy
+nbqa
+networkx
+pandas
+plotly
+pre-commit
+pylint
+seaborn

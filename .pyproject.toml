@@ -1,0 +1,5 @@
+[tool.nbqa.exclude]
+isort = "^asset_price_correlations/depreciated/"
+black = "^depreciated/"
+mypy = "^depreciated/"
+flake8 = "^depreciated/"
