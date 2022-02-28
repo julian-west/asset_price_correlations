@@ -11,7 +11,7 @@ Using __networkx__ and __Plotly__ to visualise correlations between asset prices
 
 [Accompanying blog post](https://engineeringfordatascience.com/posts/visualising_asset_price_correlations/)
 
-Note that this repository has been updated since the original [blog post](https://julian-west.github.io/blog/visualising-asset-price-correlations/) (2019) which was posted on my old website. The code referenced in the old blog post is available in the `depreciated` folder.
+Note that this repository has been updated since the original [blog post](https://julian-west.github.io/blog/visualising-asset-price-correlations/) (2019) which was posted on my old website. The code referenced in the old blog post is available in the `depreciated` folder
 
 Changes since previous blog post:
 - added headers to the example dataset, removed requirement to change header names in the csv file as part of the code
